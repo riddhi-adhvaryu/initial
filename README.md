@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About the application
+## About the Application
 
 This application uses Laravel api with Vuejs component.
 This will display Api's json response.
